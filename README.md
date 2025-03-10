@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a Fourth-year Systems Engineering student passionate about technology, constantly exploring programming languages, tools, and concepts to enhance skills.<br><br><br>- 🔭 I'm currently just studying<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I like to play basketball and videogames</p>
+<p align="left">I'm a Fourth-year Systems Engineering student passionate about technology, constantly exploring programming languages, tools, and concepts to enhance skills.<br><br><br>- 🔭 I'm currently just studying<br>- 📚 I'm currently learning .NET<br>- ⚡ In my free time I like to play basketball and videogames</p>
 
 ###
 
